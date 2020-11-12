@@ -11,9 +11,6 @@ Basic Java Guessing Game
 // Date Completed: 29/11/2018
 //
 // Completion time: Too long to say...
-//
-// Honor Code: I pledge that this program represents my own
-// program code. I received help from (Dhruv Patel) in designing and debugging my program.
 //*********************************************************
    import java.util.*;
 
